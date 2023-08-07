@@ -1,9 +1,12 @@
-# camps
+# Daily Socker
 
 ## Features
 
 - ▲ Based on latest [Next.js](https://github.com/zeit/next.js)
 - 💅 Styling with [TailwindCSS](https://tailwindcss.com/)
+- :bear: Efficient state management using [Zustand](https://github.com/pmndrs/zustand)
+- :trumpet: Real time notification with [WebSocket](https://github.com/websockets/ws)
+- :loop: Schedule job using [Node-Cron](https://github.com/node-cron/node-cron)
 
 ### Design Patterns
 
@@ -13,8 +16,8 @@
 ## Getting started
 
 ```
-git clone https://github.com/randyesperben/camps.git
-cd camps
+git clone https://github.com/samiur-r/daily-soccer.git
+cd daily-soccer
 
 cp .env.example env.local 
 Open the env.local file and add values to the environment variables.
